@@ -1,0 +1,16 @@
+body{
+    font: Arial, sans-serif;
+    text-align: center;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: #333;
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+}
+button:hover{
+    background-color: royalblue;
+}
